@@ -1,4 +1,4 @@
-//progrem to demonstrate the cascade if..else
+//program to demonstrate the cascade if..else
 package org.tnsif.decisionmaking;
 
 import java.util.Scanner;
